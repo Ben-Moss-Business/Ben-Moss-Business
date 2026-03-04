@@ -6,12 +6,12 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=FFA500&text=👋%20Hi%20there,%20I'm%20Ben&height=100&fontSize=60" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=FFA500&text=👋%20Hi%20there,%20I'm%20Ben&height=100&fontSize=28" />
 </p>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=FFA500&text=🌱%20About%20Me&height=80&fontSize=50" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=FFA500&text=🌱%20About%20Me&height=80&fontSize=28" />
 
 <p>
   Hi, I'm Ben, a web developer with a passion for building clean, responsive, and engaging digital experiences. I work with Python, JavaScript, TypeScript, and frameworks like React, Tailwind, Bootstrap, and Three.js to bring ideas to life. I approach every project with a learning mindset, openness to feedback, and a drive for continuous improvement. For me, great work starts with a solid attitude: showing up ready, taking ownership, and staying positive no matter the challenge. 
@@ -21,7 +21,7 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=FFA500&text=🚀%20My%20Tech%20Stack&height=80&fontSize=50" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=FFA500&text=🚀%20My%20Tech%20Stack&height=80&fontSize=28" />
 
 <p>I specialize in building dynamic, scalable user interfaces and robust backends. My workflow centers on the JavaScript and React ecosystem, leveraging its flexibility to bridge the gap between complex 3D visuals and structured data management.</p>
 
@@ -33,7 +33,7 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=FFA500&text=📊%20GitHub%20Stats&height=80&fontSize=50" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=FFA500&text=📊%20GitHub%20Stats&height=80&fontSize=28" />
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ben-Moss-Business&theme=radical" alt="GitHub Streak" />
