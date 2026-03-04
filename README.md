@@ -1,5 +1,5 @@
-## 👋 Hi there, Im Ben
-
+### 👋 Hi there, Im Ben
+---
 ### 🚀 My Tech Stack
 
 <p align="center">
