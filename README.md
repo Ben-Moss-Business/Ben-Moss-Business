@@ -5,9 +5,9 @@
        style="border-radius: 20px; border: 5px solid #FFA500; display: block;" />
 </p>
 
-### 👋 Hi there, Im Ben
+# 👋 Hi there, Im Ben
 ---
-### 🌱 About Me
+## 🌱 About Me
 <p>
   Hi, I'm Ben, a web developer with a passion for building clean, responsive, and engaging digital experiences. I work with Python, JavaScript, TypeScript, and frameworks like React, Tailwind, Bootstrap, and Three.js to bring ideas to life. I approach every project with a learning mindset, openness to feedback, and a drive for continuous improvement. For me, great work starts with a solid attitude: showing up ready, taking ownership, and staying positive no matter the challenge. 
   
@@ -15,7 +15,7 @@
 </p>
 
 ---
-### 🚀 My Tech Stack
+## 🚀 My Tech Stack
 <p>I specialize in building dynamic, scalable user interfaces and robust backends. My workflow centers on the JavaScript and React ecosystem, leveraging its flexibility to bridge the gap between complex 3D visuals and structured data management.</p>
 <p align="center">
   <a href="https://skillicons.dev">
@@ -24,6 +24,7 @@
 </p>
 
 ---
+## 🔥 My Stats
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ben-Moss-Business&theme=radical" alt="GitHub Streak" />
 </p>
