@@ -48,7 +48,7 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=FFA500&text=🤝%20Let's%20Connect&height=80&fontSize=28" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=FFA500&text=🤝%20Contact's%20Me&height=80&fontSize=28" />
 </p>
 
 <p align="center">
@@ -59,10 +59,10 @@
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
   <a href="[https://yourportfolio.com](https://ben-moss-business.github.io/portfolio-save/)">
-    <img src="https://skillicons.dev/icons?i=portfolio" />
+    <img src="https://skillicons.dev/icons?i=react" />
   </a>
 </p>
 
 <p align="center">
-  Feel free to reach out if you want to talk about <b>Web Development</b>, <b>Three.js</b>, or <b>Motorcycle Engineering</b>!
+  Feel free to reach out if you want to talk about <b>Web Development</b>, <b>Three.js</b>!
 </p>
