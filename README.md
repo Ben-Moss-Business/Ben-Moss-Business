@@ -6,13 +6,13 @@
 </p>
 
 <p align="center">
-  <font size="7"><b>👋 Hi there, I'm Ben</b></font>
+  <font size="15"><b>👋 Hi there, I'm Ben</b></font>
 </p>
 
 ---
 
 <p align="left">
-  <font size="6"><b>🌱 About Me</b></font>
+  <font size="12"><b>🌱 About Me</b></font>
 </p>
 
 <p>
@@ -24,7 +24,7 @@
 ---
 
 <p align="left">
-  <font size="6"><b>🚀 My Tech Stack</b></font>
+  <font size="12"><b>🚀 My Tech Stack</b></font>
 </p>
 
 <p>I specialize in building dynamic, scalable user interfaces and robust backends. My workflow centers on the JavaScript and React ecosystem, leveraging its flexibility to bridge the gap between complex 3D visuals and structured data management.</p>
