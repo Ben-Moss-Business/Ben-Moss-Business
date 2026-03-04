@@ -48,7 +48,7 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=FFA500&text=🤝%20Contact's%20Me&height=80&fontSize=28" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=FFA500&text=🤝%20Contact%20Me&height=80&fontSize=28" />
 </p>
 
 <p align="center">
