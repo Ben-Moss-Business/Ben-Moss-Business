@@ -5,12 +5,14 @@
        style="border-radius: 20px; border: 5px solid #FFA500; display: block;" />
 </p>
 
-<p align="left">
-  <font size="6"><b>👋 Hi there, I'm Ben</b></font>
+<p align="center">
+  <font size="7"><b>👋 Hi there, I'm Ben</b></font>
 </p>
 
+---
+
 <p align="left">
-  <font size="5"><b>🌱 About Me</b></font>
+  <font size="6"><b>🌱 About Me</b></font>
 </p>
 
 <p>
@@ -19,10 +21,10 @@
   Outside of coding, I have a strong interest in engineering, especially when it comes to motorcycles. I enjoy rebuilding, maintaining, and riding them, which has taught me patience, precision, and problem-solving in a hands-on environment. Working on machines has strengthened my attention to detail and reinforced the importance of understanding how systems work both individually and together, something I bring into my development work every day. 
 </p>
 
-<br/>
+---
 
 <p align="left">
-  <font size="5"><b>🚀 My Tech Stack</b></font>
+  <font size="6"><b>🚀 My Tech Stack</b></font>
 </p>
 
 <p>I specialize in building dynamic, scalable user interfaces and robust backends. My workflow centers on the JavaScript and React ecosystem, leveraging its flexibility to bridge the gap between complex 3D visuals and structured data management.</p>
@@ -33,10 +35,10 @@
   </a>
 </p>
 
-<br/>
+---
 
 <p align="left">
-  <font size="5"><b>📊 GitHub Stats</b></font>
+  <font size="6"><b>📊 GitHub Stats</b></font>
 </p>
 
 <p align="center">
