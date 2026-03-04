@@ -7,6 +7,9 @@
 
 ### 👋 Hi there, Im Ben
 ---
+### About Me
+Hi, I'm Ben, a web developer with a passion for building clean, responsive, and engaging digital experiences. I work with Python, JavaScript, TypeScript, and frameworks like React, Tailwind, Bootstrap, and Three.js to bring ideas to life. I approach every project with a learning mindset, openness to feedback, and a drive for continuous improvement. For me, great work starts with a solid attitude: showing up ready, taking ownership, and staying positive no matter the challenge. Outside of coding, I have a strong interest in engineering, especially when it comes to motorcycles. I enjoy rebuilding, maintaining, and riding them, which has taught me patience, precision, and problem-solving in a hands-on environment. Working on machines has strengthened my attention to detail and reinforced the importance of understanding how systems work both individually and together, something I bring into my development work every day. 
+---
 ### 🚀 My Tech Stack
 
 <p align="center">
