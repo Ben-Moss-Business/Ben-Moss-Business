@@ -1,4 +1,4 @@
-## Hi there 👋
+## 👋 Hi there, Im Ben
 
 ### 🚀 My Tech Stack
 
@@ -9,4 +9,4 @@
 </p>
 
 ### 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=[YourUsername]&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=[Ben-Moss-Business]&show_icons=true&theme=radical)
