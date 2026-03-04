@@ -15,7 +15,7 @@
 </p>
 
 ---
-## 🚀 My Tech Stack
+### **🚀 My Tech Stack**
 <p>I specialize in building dynamic, scalable user interfaces and robust backends. My workflow centers on the JavaScript and React ecosystem, leveraging its flexibility to bridge the gap between complex 3D visuals and structured data management.</p>
 <p align="center">
   <a href="https://skillicons.dev">
