@@ -5,32 +5,40 @@
        style="border-radius: 20px; border: 5px solid #FFA500; display: block;" />
 </p>
 
-# 👋 Hi there, Im Ben
----
-<p align="left" style="font-size: 2em; font-weight: bold;">
-  <span>🌱 About Me</span>
+<p align="left">
+  <font size="6"><b>👋 Hi there, I'm Ben</b></font>
 </p>
+
+<p align="left">
+  <font size="5"><b>🌱 About Me</b></font>
+</p>
+
 <p>
   Hi, I'm Ben, a web developer with a passion for building clean, responsive, and engaging digital experiences. I work with Python, JavaScript, TypeScript, and frameworks like React, Tailwind, Bootstrap, and Three.js to bring ideas to life. I approach every project with a learning mindset, openness to feedback, and a drive for continuous improvement. For me, great work starts with a solid attitude: showing up ready, taking ownership, and staying positive no matter the challenge. 
-  
+  <br/><br/>
   Outside of coding, I have a strong interest in engineering, especially when it comes to motorcycles. I enjoy rebuilding, maintaining, and riding them, which has taught me patience, precision, and problem-solving in a hands-on environment. Working on machines has strengthened my attention to detail and reinforced the importance of understanding how systems work both individually and together, something I bring into my development work every day. 
 </p>
 
----
-<p align="left" style="font-size: 2em; font-weight: bold;">
-  <span>🚀 My Tech Stack</span>
+<br/>
+
+<p align="left">
+  <font size="5"><b>🚀 My Tech Stack</b></font>
 </p>
+
 <p>I specialize in building dynamic, scalable user interfaces and robust backends. My workflow centers on the JavaScript and React ecosystem, leveraging its flexibility to bridge the gap between complex 3D visuals and structured data management.</p>
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,threejs,bootstrap,tailwind,nodejs,py,mysql,mongodb" />
   </a>
 </p>
 
----
-<p align="left" style="font-size: 2em; font-weight: bold;">
-  <span>📊 GitHub Stats</span>
+<br/>
+
+<p align="left">
+  <font size="5"><b>📊 GitHub Stats</b></font>
 </p>
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ben-Moss-Business&theme=radical" alt="GitHub Streak" />
 </p>
