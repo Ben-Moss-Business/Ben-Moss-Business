@@ -11,5 +11,6 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://metrics.lecoq.io/Ben-Moss-Business?base=header,activity,community,repositories&base.indepth=true&config.timezone=Europe/London" alt="Metrics Card" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ben-Moss-Business&show_icons=true&theme=radical" alt="Stats Card" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ben-Moss-Business&layout=compact&theme=radical" alt="Top Langs" />
 </p>
