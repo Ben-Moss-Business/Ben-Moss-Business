@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="My Banner" />
+  <img src="https://raw.githubusercontent.com/Ben-Moss-Business/Ben-Moss-Business/main/banner.png" alt="My Banner" />
 </p>
 
 ### 👋 Hi there, Im Ben
