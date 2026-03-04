@@ -44,3 +44,25 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ben-Moss-Business&theme=radical" alt="GitHub Streak" />
 </p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=FFA500&text=🤝%20Let's%20Connect&height=80&fontSize=28" />
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/ben-m0ss/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:ben.f.moss@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  <a href="[https://yourportfolio.com](https://ben-moss-business.github.io/portfolio-save/)">
+    <img src="https://skillicons.dev/icons?i=portfolio" />
+  </a>
+</p>
+
+<p align="center">
+  Feel free to reach out if you want to talk about <b>Web Development</b>, <b>Three.js</b>, or <b>Motorcycle Engineering</b>!
+</p>
