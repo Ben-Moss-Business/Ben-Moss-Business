@@ -9,4 +9,6 @@
 </p>
 
 ---
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ben-Moss-Business&theme=radical)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ben-Moss-Business&theme=radical" alt="GitHub Streak" />
+</p>
