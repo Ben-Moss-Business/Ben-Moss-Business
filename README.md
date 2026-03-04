@@ -5,15 +5,13 @@
        style="border-radius: 20px; border: 5px solid #FFA500; display: block;" />
 </p>
 
-<div align="center">
-  <h1>👋 Hi there, I'm Ben</h1>
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=FFA500&text=👋%20Hi%20there,%20I'm%20Ben&height=100&fontSize=60" />
+</p>
 
 ---
 
-<div align="left">
-  <h1>🌱 About Me</h1>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=FFA500&text=🌱%20About%20Me&height=80&fontSize=50" />
 
 <p>
   Hi, I'm Ben, a web developer with a passion for building clean, responsive, and engaging digital experiences. I work with Python, JavaScript, TypeScript, and frameworks like React, Tailwind, Bootstrap, and Three.js to bring ideas to life. I approach every project with a learning mindset, openness to feedback, and a drive for continuous improvement. For me, great work starts with a solid attitude: showing up ready, taking ownership, and staying positive no matter the challenge. 
@@ -23,9 +21,7 @@
 
 ---
 
-<div align="left">
-  <h1>🚀 My Tech Stack</h1>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=FFA500&text=🚀%20My%20Tech%20Stack&height=80&fontSize=50" />
 
 <p>I specialize in building dynamic, scalable user interfaces and robust backends. My workflow centers on the JavaScript and React ecosystem, leveraging its flexibility to bridge the gap between complex 3D visuals and structured data management.</p>
 
@@ -37,9 +33,7 @@
 
 ---
 
-<div align="left">
-  <h1>📊 GitHub Stats</h1>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=FFA500&text=📊%20GitHub%20Stats&height=80&fontSize=50" />
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ben-Moss-Business&theme=radical" alt="GitHub Streak" />
