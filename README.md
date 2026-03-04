@@ -2,7 +2,7 @@
 
 ### 🚀 My Tech Stack
 
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,threejs,bootstrap,tailwind,nodejs,py,mysql,mongodb" />
   </a>
@@ -11,7 +11,5 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ben-Moss-Business&show_icons=true&theme=radical" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ben-Moss-Business&layout=compact&theme=radical" />
+  <img src="https://metrics.lecoq.io/Ben-Moss-Business?base=header,activity,community,repositories&base.indepth=true&config.timezone=Europe/London" alt="Metrics Card" />
 </p>
