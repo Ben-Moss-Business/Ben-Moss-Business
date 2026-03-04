@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" alt="My Banner" />
+</p>
+
 ### 👋 Hi there, Im Ben
 ---
 ### 🚀 My Tech Stack
